@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0; text-decoration: none; list-style: none;}
+
+
+header {background-color: white; align-items: Right;}
+
+
+
+body {background-color: #000000;}
+
+/*--footer start---*/
+footer{height: 100%;width: 100%;background-color: black;display: flex;justify-content: center;}
+.footer1{border: 0px height: 60px;display: flex; align-items: center;font-family: 'Noto Sans KR', sans-serif;font-weight: 200; color: #ffffff;font-size: 0.9rem; align-items: center;}
+/*--footer end---*/
